@@ -5219,6 +5219,10 @@ body {
     padding-right: 4rem!important;
   }
 }
+.cid-rBTJYsjDXD .mbr-text,
+.cid-rBTJYsjDXD .mbr-section-btn {
+  text-align: left;
+}
 .cid-rBTLDerHUF {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -5377,6 +5381,7 @@ body {
 }
 .cid-rBTPptDpVC .text2 {
   color: #333333;
+  text-align: left;
 }
 .cid-rBTPptDpVC .text3 {
   color: #333333;
@@ -5398,6 +5403,7 @@ body {
 }
 .cid-rBTPptDpVC .text1 {
   color: #efeeee;
+  text-align: left;
 }
 .cid-rBTPptDpVC .title3 B {
   color: #c1c1c1;
