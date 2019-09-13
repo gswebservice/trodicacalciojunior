@@ -3511,6 +3511,13 @@ body {
 .cid-rBTkbSj7k7 H1 {
   color: #00c7f5;
 }
+.cid-rBTkbSj7k7 .mbr-text,
+.cid-rBTkbSj7k7 .mbr-section-btn {
+  text-align: left;
+}
+.cid-rBTkbSj7k7 H4 {
+  text-align: center;
+}
 .cid-rBQUorNNs8 {
   padding-top: 120px;
   padding-bottom: 75px;
