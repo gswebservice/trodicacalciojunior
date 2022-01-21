@@ -96,7 +96,7 @@
       "cartTitle": "Your Order:",
       "checkoutButton": "Pay with"
     },
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "chatbutton": {
       "phone": "+393405095937",
       "message": "",
